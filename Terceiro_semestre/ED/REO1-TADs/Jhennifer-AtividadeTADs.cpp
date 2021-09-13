@@ -1,11 +1,14 @@
 /* Jhennifer Rodrigues, 14C
 Enunciado 4
-Uma organização não governamental (ONG) que acolhe cães e gatos abandonados tem recebido, ao longo dos anos, várias doações, de várias pessoas e instituições, que ficam sensibilizadas com o trabalho desenvolvido.
-Entretanto, caso fosse necessário indicar qual instituição que mais apoiou a ONG em valores reais (maior montante recebido), seus dirigentes não teriam como fornecer essa informação. 
-Dessa forma, além do registro dos animais, que armazena o nome dado ao animal, a espécie, o local e a data em que foi resgatado, eles também passaram a fazer o cadastro de seus benfeitores, armazenando o nome, o tipo (se pessoa física ou jurídica), e o valor da doação (caso a doação seja em material de limpeza, ração ou outros produtos, é registrado o valor estimado da doação).
-Agora é possível cadastrar novos animais, cadastrar novas doações e procurar pelas doações feitas por um determinado benfeitor.
-Analise a descrição acima, identifique quais são as entidades a serem tratadas como classes, quais os atributos de cada uma delas e qual o comportamento esperado (os métodos) de cada entidade. Com base nesse planejamento feito, implemente uma solução para esse problema. 
-Sua implementação deve ser orientada a objetos, com a definição de cada uma das classes, utilizando as diretivas de visibilidade adequadas, os métodos que representem o comportamento de cada classe e um pequeno programa (main) que as utilize para solucionar o problema apresentado.
+Uma organização não governamental (ONG) que acolhe cães e gatos abandonados tem recebido, ao longo dos anos, várias doações, de várias pessoas e instituições, 
+que ficam sensibilizadas com o trabalho desenvolvido. Entretanto, caso fosse necessário indicar qual instituição que mais apoiou a ONG em valores reais (maior montante recebido),
+seus dirigentes não teriam como fornecer essa informação. Dessa forma, além do registro dos animais, que armazena o nome dado ao animal, a espécie, o local e a data em que foi
+resgatado, eles também passaram a fazer o cadastro de seus benfeitores, armazenando o nome, o tipo (se pessoa física ou jurídica), e o valor da doação (caso a doação seja em 
+material de limpeza, ração ou outros produtos, é registrado o valor estimado da doação). Agora é possível cadastrar novos animais, cadastrar novas doações e procurar pelas
+doações feitas por um determinado benfeitor. Analise a descrição acima, identifique quais são as entidades a serem tratadas como classes, quais os atributos de cada uma delas
+e qual o comportamento esperado (os métodos) de cada entidade. Com base nesse planejamento feito, implemente uma solução para esse problema. Sua implementação deve ser orientada
+a objetos, com a definição de cada uma das classes, utilizando as diretivas de visibilidade adequadas, os métodos que representem o comportamento de cada classe e um 
+pequeno programa (main) que as utilize para solucionar o problema apresentado.
 */
 
 #include <iostream>
