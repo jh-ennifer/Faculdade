@@ -56,7 +56,7 @@ def main(FILE_NAME):
             y = float(values[i][1])
 
         except ValueError:
-            print("Os valores não são numéricos!!")
+            print("Os valores não são numéricos!")
 
         Xlist.append(x)
         Ylist.append(y)
