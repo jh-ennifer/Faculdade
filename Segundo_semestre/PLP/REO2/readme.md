@@ -1,7 +1,7 @@
 # REO 02
 
 ### Sobre
-O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de Pearson](https://youtu.be/2ejUpHnMVNg) (a fórmula se encontra no final do arquivo), e os valores utilizados para o cálculo eram provenientes de arquivos. O objetivo da atividade era explorar o paradigma imperativo
+O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de Pearson](https://www.questionpro.com/blog/pt-br/correlacao-de-pearson/) (a fórmula se encontra no final do arquivo), e os valores utilizados para o cálculo eram provenientes de arquivos. O objetivo da atividade era explorar o [paradigma imperativo](https://pt.wikipedia.org/wiki/Programação_imperativa).
 
 > ✔ Status: Finalizado
 
@@ -23,7 +23,7 @@ O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de
  ```
  📍 Após a instalação é necessário estar dentro de um diretório que contenha o código e um arquivo .txt; Esse arquivo precisa conter pares de valores X e Y separados por vírgula (o repositório já contem um arquivo disponível para teste).
  <br>
- 📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal que o em seguida o resultado será apresentado.
+ 📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal (adaptando os nomes para os nomes dos seus arquivos) que em seguida o resultado será apresentado.
  ```bash
      $ python3 programa.py arquivoDeEntrada.txt
  ```
