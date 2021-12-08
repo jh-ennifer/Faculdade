@@ -1,7 +1,7 @@
 # REO 02
 
 ### Sobre
-O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de Pearson](https://youtu.be/2ejUpHnMVNg) (a fórmula se encontra no final do arquivo), e os valores utilizados para o cálculo eram provenientes de arquivos.
+O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de Pearson](https://youtu.be/2ejUpHnMVNg) (a fórmula se encontra no final do arquivo), e os valores utilizados para o cálculo eram provenientes de arquivos. O objetivo da atividade era explorar o paradigma imperativo
 
 > ✔ Status: Finalizado
 
