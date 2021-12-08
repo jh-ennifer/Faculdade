@@ -21,12 +21,12 @@ O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de
 ```bash
     $ sudo apt-get install python3
  ```
- 📍 Após a instalação é necessário estar dentro de um diretório que contenha o código e um arquivo .txt; Esse arquivo precisa conter pares de valores X e Y separados por vírgula (o repositório já contem um arquivo disponível para teste)
+ 📍 Após a instalação é necessário estar dentro de um diretório que contenha o código e um arquivo .txt; Esse arquivo precisa conter pares de valores X e Y separados por vírgula (o repositório já contem um arquivo disponível para teste).
  <br>
  📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal que o em seguida o resultado será apresentado.
  ```bash
      $ python3 programa.py arquivoDeEntrada.txt
  ```
- 
+ ##
  ### Fórmula do coeficiente de Pearson
 ![image](https://user-images.githubusercontent.com/66702089/145122893-a9675b0d-929e-48f5-8126-4365d7c57767.png)
