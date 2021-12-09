@@ -20,4 +20,8 @@ As estruturas foram ensinadas utilizando a linguagem [C++](https://www.cplusplus
 
 ### Requisitos
 
-Os requisitos estarão específicados em cada uma das pastas
+Dentro do diretório onde está o arquivo, abra um terminal e digite o comando abaixo
+```bash
+     $ g++ nomeArquivo.cpp -o nomeExecutavel
+ ```
+ > Em cada código está comentado para que o mesmo foi feito
