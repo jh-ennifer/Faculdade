@@ -31,5 +31,10 @@ Abaixo estão listadas as tecnologias que tive contato no curso até então.
       PROLOG
     </a>
   </li>
+  <li>
+    <a href = "https://dev.mysql.com/doc/" target = "_blank">
+      <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+  </li>
 </ul>
 
