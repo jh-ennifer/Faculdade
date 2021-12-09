@@ -9,7 +9,7 @@ O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de
 📍 Para rodar a aplicação é necessário primeiro ter Python instaldo na máquina.
 #### Windows
 [Dowload Python](https://www.python.org/downloads/)
-#### Ubuntu
+#### Linux
 - Primeiro verifique se já não está instalado:
 ```bash
     $ which Python
@@ -23,7 +23,7 @@ O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de
  ```
  📍 Após a instalação é necessário estar dentro de um diretório que contenha o código e um arquivo .txt; Esse arquivo precisa conter pares de valores X e Y separados por vírgula (o repositório já contem um arquivo disponível para teste).
  <br>
- 📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal (adaptando os nomes para os nomes dos seus arquivos) que em seguida o resultado será apresentado.
+ 📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal (adaptando os nomes para os nomes dos seus arquivos) que em seguida o resultado será apresentado. O comando é o mesmo tanto para Windows quanto para Linux
  ```bash
      $ python3 programa.py arquivoDeEntrada.txt
  ```
