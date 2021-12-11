@@ -31,7 +31,7 @@ O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de
     $ sudo apt-get install python3
  ```
  📍 Após a instalação é necessário estar dentro de um diretório que contenha o código e um arquivo .txt; Esse arquivo precisa conter pares de valores X e Y separados por vírgula (o repositório já contem um arquivo disponível para teste).
- <br>
+### Como usar:
  📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal (adaptando os nomes para os nomes dos seus arquivos) que em seguida o resultado será apresentado. O comando é o mesmo tanto para Windows quanto para Linux
  ```bash
      $ python3 programa.py arquivoDeEntrada.txt
