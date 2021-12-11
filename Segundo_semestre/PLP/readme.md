@@ -8,3 +8,23 @@ Essa disciplina foi aplicada com o intuito de apresentar para os alunos alguns p
 ### Requisitos
 
 Os requisitos estarão específicados em cada uma das pastas
+
+### Linguagens
+Linguagens que tive contato ao longo da disciplina:
+<ul>
+  <li>
+    <a href="https://docs.python.org/pt-br/3/tutorial/">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </a>
+  </li>
+  <li>
+    <a href="https://www.haskell.org/documentation/">
+      Haskell
+    </a>
+  </li>
+  <li>
+    <a href="https://www.swi-prolog.org/pldoc/index.html">
+      Prolog
+    </a>
+  </li>
+</ul>
