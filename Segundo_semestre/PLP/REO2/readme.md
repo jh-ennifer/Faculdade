@@ -5,6 +5,15 @@ O código desenvolvido nesse reo, tinha o objetivo de calcular o [Coeficiente de
 
 > ✔ Status: Finalizado
 
+### Linguagem utilizada
+<ul>
+    <li>
+        <a href="https://docs.python.org/pt-br/3/tutorial/">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        </a>
+    </li>
+</ul>
+
 ### Requisitos:
 📍 Para rodar a aplicação é necessário primeiro ter Python instaldo na máquina.
 #### Windows
