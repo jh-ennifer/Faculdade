@@ -24,9 +24,7 @@ Essa disciplina foi aplicada com o intuito de apresentar para os alunos estrtutu
 </ul>
 
 > ✔ Status: Finalizado
-
-### Requisitos
-
+### Como usar:
 Dentro do diretório onde está o arquivo, abra um terminal e digite o comando abaixo
 ```bash
      $ g++ nomeArquivo.cpp -o nomeExecutavel
