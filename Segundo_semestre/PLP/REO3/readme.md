@@ -31,9 +31,8 @@ O código desenvolvido nesse reo, tinha o objetivo de apresentar o prontuário m
     $ sudo apt-get install python3
  ```
 📍 Após a instalação, é necessário também que os arquivos dentro da pasta "Prontuário" deste repositório sejam baixados.
-<br>
+### Como usar:
 📍 Seguidos todos os passos acima, certifique-se de que está no diretório que contém os códigos e digite o comando abaixo no terminal, logo em seguida o resultado será apresentado. O comando é o mesmo tanto para Windows quanto para Linux
  ```bash
      $ python3 main.py
  ```
- 
