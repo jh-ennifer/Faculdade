@@ -20,7 +20,7 @@ O código desenvolvido nesse reo, tinha o objetivo de apresentar os ancestrais d
 - [1-Installing PROLOG on WINDOWS and LINUX](https://youtu.be/4vv3EOjtpHo)
 - [Dowload SWI Prolog](https://www.swi-prolog.org/Download.html)
 
-
+### Como usar:
 📍 Após a instalação, para testar o programa basta usar o SWI Prolog, no vídeo abaixo, é possível ver como usar o programa e também fazer o primeiro código na linguagem.
 - [5-First Prolog Code](https://youtu.be/-v1K9AnkAeM).
  
