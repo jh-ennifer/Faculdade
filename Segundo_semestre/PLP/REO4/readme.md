@@ -13,6 +13,5 @@ O código desenvolvido nesse reo, tinha o objetivo de, dada uma determinada stri
         </a>
     </li>
 </ul>
-
-### Requisitos:
+### Como usar:
 📍 Para rodar a aplicação basta utilizar o [Replit](https://replit.com/~)
