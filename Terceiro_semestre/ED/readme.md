@@ -14,7 +14,14 @@ Essa disciplina foi aplicada com o intuito de apresentar para os alunos estrtutu
 - Árvore B+
 - Árvore B*
 
-As estruturas foram ensinadas utilizando a linguagem [C++](https://www.cplusplus.com/doc/).
+### Linguagem:
+<ul>
+     <li>
+          <a href="https://www.cplusplus.com/doc/">
+               <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+          </a>
+     </li>
+</ul>
 
 > ✔ Status: Finalizado
 
