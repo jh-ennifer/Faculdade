@@ -5,6 +5,15 @@ O código desenvolvido nesse reo, tinha o objetivo de apresentar os ancestrais d
 
 > ✔ Status: Finalizado
 
+### Linguagem utilizada
+<ul>
+    <li>
+        <a href="https://www.swi-prolog.org/pldoc/index.html">
+            Prolog
+        </a>
+    </li>
+</ul>
+
 ### Requisitos:
 📍 Para rodar a aplicação é necessário primeiro instalar o SWI Prolog.
 - O video abaixo ensina como instalar SWI prolog tanto no Windows quanto no linux.
